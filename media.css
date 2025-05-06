@@ -1,0 +1,15 @@
+@media  (max-width:768px) {
+    section.main{
+        flex-direction: column;
+        align-items: center;
+      }
+      .image-container {
+        width: 100%;
+      }
+      .image-container img{
+        width: 100%;
+  transform: translateX(0);
+
+      }
+      
+}
